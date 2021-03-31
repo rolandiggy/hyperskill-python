@@ -1,2 +1,2 @@
 # hyperskill-python
-Python projects on Jetbrains Academy/Hyperskill
+Repository of my Python projects on Jetbrains Academy/Hyperskill
